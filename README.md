@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leilaros
 ## 👀 I’m interested in ...
-I'm passionate about exploring data to uncover hidden insights and applying machine learning algorithms to solve complex problems. My interests lie in data visualization, predictive modeling, and big data analytics.
+I'm passionate about exploring data to uncover hidden insights and applying machine learning algorithms to solve complex problems. My interests are in data preprocessing, predictive modeling, and big data analytics.
 
 ## 🌱 I’m currently learning ...
 I'm currently diving deeper into advanced machine learning techniques, LLM, 3D visualization, and cloud computing for scalable data processing.
